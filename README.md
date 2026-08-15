@@ -2,7 +2,7 @@
 
 A practical laboratory repository for **Cloud Computing and Security (CS722I1C)**.
 
-This repository contains the work for **Experiments 1–4**, organized separately so that each experiment can be opened and studied independently.
+This repository contains the work for **Experiments 1–5**, organized separately so that each experiment can be opened and studied independently.
 
 ## 🧪 Experiments
 
@@ -12,6 +12,7 @@ This repository contains the work for **Experiments 1–4**, organized separatel
 | 2 | Install/use a C compiler in the virtual machine and execute a simple C program | Ubuntu, GCC, C |
 | 3 | Create an EC2 instance in AWS | Amazon EC2, AWS |
 | 4 | Develop a simple application using Apex | Salesforce Apex |
+| 5 | Implement a mailing service using Apex | Salesforce Apex, Email Service |
 
 ## 📁 Repository Structure
 
@@ -30,6 +31,10 @@ cloud-computing-lab/
 │   ├── README.md
 │   ├── HelloWorldApp.cls
 │   └── execute-anonymous.apex
+├── experiment-5-salesforce-mailing-service/
+│   ├── README.md
+│   ├── EmailManager.cls
+│   └── execute-anonymous.apex
 ├── .gitignore
 ├── LICENSE
 └── README.md
@@ -37,7 +42,7 @@ cloud-computing-lab/
 
 ## 🎯 Purpose
 
-The repository is intended to maintain the source code, commands, procedures, and notes associated with the Cloud Computing laboratory. Screenshots and cloud-resource identifiers can be added later when actual execution evidence is available.
+The repository is intended to maintain the source code, commands, procedures, and notes associated with the Cloud Computing laboratory.
 
 ## 🔐 Security
 
